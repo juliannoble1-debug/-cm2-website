@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  sitemap.xml — thecm2.com
+  Last updated: 2026-03-16
+
+  CANONICAL URL RULES:
+  - All URLs use https://www.thecm2.com (HTTPS + www)
+  - Only canonical URLs are listed — no legacy aliases, no duplicate paths
+  - Legacy alias slugs (london-project-1/2/3) are NOT listed here; they
+    redirect via canonical tag to the current canonical slug
+  - Old stale slugs (/projects/the-wilds, /projects/haven, /projects/the-source)
+    have been removed and replaced with the correct canonical slugs
+-->
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+  <!-- ── Homepage ──────────────────────────────────────────────────────── -->
+  <url>
+    <loc>https://www.thecm2.com/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <!-- ── Core pages ────────────────────────────────────────────────────── -->
+  <url>
+    <loc>https://www.thecm2.com/projects</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://www.thecm2.com/current-opportunities</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://www.thecm2.com/how-it-works</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.thecm2.com/trust</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.thecm2.com/contact</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.thecm2.com/london-investment-brief</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://www.thecm2.com/privacy</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.3</priority>
+  </url>
+
+  <!-- ── SEO landing pages ─────────────────────────────────────────────── -->
+  <url>
+    <loc>https://www.thecm2.com/london-investment</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://www.thecm2.com/overseas-investors</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://www.thecm2.com/prime-london-property</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <!-- ── Blog ──────────────────────────────────────────────────────────── -->
+  <url>
+    <loc>https://www.thecm2.com/blog</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.thecm2.com/blog/london-property-investment-guide-overseas-investors</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.thecm2.com/blog/battersea-property-investment-2026</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.thecm2.com/blog/aldar-london-investment-why-abu-dhabi-developer</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.thecm2.com/blog/prime-london-property-market-outlook-2026</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.thecm2.com/blog/buying-london-property-from-abroad-step-by-step</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.thecm2.com/blog/abu-dhabi-investors-buying-london-property</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.thecm2.com/blog/dubai-investors-buying-london-property</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.thecm2.com/blog/singapore-hong-kong-investors-london-property</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.thecm2.com/blog/european-investors-london-property</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- ── London project landing pages ─────────────────────────────────── -->
+  <url>
+    <loc>https://www.thecm2.com/projects/ransomes-wharf-battersea</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.thecm2.com/projects/westminster-tower</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.thecm2.com/projects/wimbledon-bridge-house</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.thecm2.com/projects/wandsworth-common</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.thecm2.com/projects/twickenham-square</loc>
+    <lastmod>2026-03-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.thecm2.com/projects/twickenham-green</loc>
+    <lastmod>2026-03-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.thecm2.com/projects/woolwich</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.thecm2.com/projects/pearson-building-croydon</loc>
+    <lastmod>2026-03-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.thecm2.com/projects/fifty-brook-green</loc>
+    <lastmod>2026-03-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.thecm2.com/projects/county-hall-kingston</loc>
+    <lastmod>2026-03-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- ── Dubai project landing pages ──────────────────────────────────── -->
+  <!-- NOTE: Canonical slugs are dubai-project-1 and dubai-project-2 -->
+  <!-- Old slugs /projects/the-wilds and /projects/haven have been removed -->
+  <url>
+    <loc>https://www.thecm2.com/projects/dubai-project-1</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.thecm2.com/projects/dubai-project-2</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- ── Abu Dhabi project landing pages ───────────────────────────────── -->
+  <!-- NOTE: Canonical slug is abu-dhabi-project-3 -->
+  <!-- Old slug /projects/the-source has been removed -->
+  <url>
+    <loc>https://www.thecm2.com/projects/abu-dhabi-project-3</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.thecm2.com/projects/fahid-island</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.thecm2.com/projects/fahid-beach-residences</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.thecm2.com/projects/beach-house-fahid</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.thecm2.com/projects/fahid-beach-terraces</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- ── Egypt project pages (Aldar-backed, via SODIC) ─────────────────── -->
+  <url>
+    <loc>https://www.thecm2.com/projects/eastvale-egypt</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.thecm2.com/projects/karmell-egypt</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.thecm2.com/projects/sodic-east-egypt</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+</urlset>

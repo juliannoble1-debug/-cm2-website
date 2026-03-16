@@ -1,0 +1,15 @@
+# Cloudflare Pages / Netlify redirect rules for thecm2.com
+#
+# These rules enforce:
+#  1. HTTP → HTTPS (301 permanent redirect)
+#  2. non-www → www (301 permanent redirect)
+#
+# For Cloudflare Pages: place this file in the /public (dist) output directory.
+# For Cloudflare Workers / Full setup: use the wrangler.toml rules below instead.
+
+# non-www → www (catches both http and https non-www)
+http://thecm2.com/*    https://www.thecm2.com/:splat    301!
+https://thecm2.com/*   https://www.thecm2.com/:splat    301!
+
+# http www → https www
+http://www.thecm2.com/*  https://www.thecm2.com/:splat  301!
